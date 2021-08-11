@@ -1,3 +1,5 @@
+![on_real_device](https://user-images.githubusercontent.com/76234406/128968460-44d1b1f4-2365-4a38-8d06-d0f593d2a226.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/76234406/128968473-a2c23adf-7e77-42d0-9d3a-b9a778a22eff.png)
 # evrikart_assignment
 
 A new Flutter project.
